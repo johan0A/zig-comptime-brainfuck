@@ -1,4 +1,4 @@
-# Zig Brainfuck Interpreter
+# Zig Brainfuck compiler
 
 This is a Brainfuck compiler written in 60 lines of zig, zith Zig's comptime feature.
 
